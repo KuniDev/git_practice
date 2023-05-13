@@ -1,5 +1,4 @@
 msg = "Hello World!"
 puts msg
-test
-testだよ！
-testだよ３
+
+name = gets.chomp
